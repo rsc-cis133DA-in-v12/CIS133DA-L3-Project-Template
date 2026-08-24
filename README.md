@@ -4,9 +4,8 @@ At the end of each lesson, you will be completing a project that includes develo
 In this project, you will use what you have learned so far to create a basic web page introducing: you! We would love to learn about your educational goals, including what degree or certificate you may be taking the course for.
 
 ## Project Prep
-If you're reading this, you have successfully accepted the assignment invitation and cloned it to your computer. (Good job!) 
 
-> If you need a refresher on any steps related to Accepting invitations and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
+> If you need a refresher on any steps related to creating your assignment repository and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
 
 1. If you haven't done so already, clone the repo to your computer.
 2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
